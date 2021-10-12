@@ -6156,15 +6156,19 @@ btn.onclick=function () {
 			line-height: 35px;
 		}
 	}
+.fixed {
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+}
 .ttt{
-	position: fixed;
 	color: white;
 	background-color: green;
 	width: 45px;
-	height: 45px;
+	height: 43px;
 	text-align: center;
 	font-size: 35px;
-	line-height: 45px;
+	line-height: 40px;
 	margin-right: 18px;
 	border-radius: 5px;
 }
