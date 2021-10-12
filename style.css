@@ -6156,21 +6156,17 @@ btn.onclick=function () {
 			line-height: 35px;
 		}
 	}
-.fixed {
-  position: fixed;
-  bottom: 20px;
-  right: 30px;
-}
 .ttt{
+	position: fixed;
 	color: white;
 	background-color: green;
 	width: 45px;
-	height: 43px;
+	height: 45px;
 	text-align: center;
 	font-size: 35px;
-	line-height: 41px;
+	line-height: 45px;
 	margin-right: 18px;
-	border-radius: 2px;
+	border-radius: 5px;
 }
 
 .card1 {
